@@ -11,6 +11,7 @@ AI cell prototype featuring perception, decision loops, and emergent multi‑age
 7. Run in the debugger or run the .exe directly
 
 Cells are color-coded based on their state:
+
 green : hungry (seeking food behavior)
 
 red : bored (push mode behavior)
