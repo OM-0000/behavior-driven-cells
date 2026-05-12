@@ -12,7 +12,9 @@ AI cell prototype featuring perception, decision loops, and emergent multi‑age
 
 Cells are color-coded based on their state:
 green : hungry (seeking food behavior)
+
 red : bored (push mode behavior)
+
 black : observation (experimental)
 
 - Vision "cones" (circle sectors in this version) simulate field of view and are used to calculate the subset of the game world the cells can see, simulating a localized entity.
